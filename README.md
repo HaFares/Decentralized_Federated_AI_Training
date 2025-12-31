@@ -97,7 +97,7 @@ Logs showing the automated coordination between Bot and Server.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-repo/Decentralized_Federated_AI_Training.git
+    git clone https://github.com/HaFares/Decentralized_Federated_AI_Training.git
     cd Decentralized_Federated_AI_Training
     ```
 
